@@ -32,7 +32,6 @@
 
 <br> 
 
-![Snake animation](https://github.com/izabella-m/izabella-m/blob/output/github-contribution-grid-snake.svg)
 
 
 
