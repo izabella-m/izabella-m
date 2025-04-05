@@ -24,7 +24,7 @@ I'm a proactive person, a fast learner, and focused on delivering clean, scalabl
 
 ###
 
-<img align="left" height="120" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="120" style="margin-right: 20px;" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -35,8 +35,8 @@ I'm a proactive person, a fast learner, and focused on delivering clean, scalabl
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=izabella-m&radius=16&theme=nightowl&area=true&order=5&hide_border=true" height="200" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=izabella-m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nightowl&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=izabella-m&radius=16&theme=nightowl&area=true&order=5&hide_border=true" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=izabella-m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nightowl&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
