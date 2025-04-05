@@ -24,7 +24,7 @@ I'm a proactive person, a fast learner, and focused on delivering clean, scalabl
 
 ###
 
-<img align="left" height="120" style="margin-right: 20px;" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="120" style="margin-right: 20px;" src="ChatGPT Image 5 de abr. de 2025, 03_43_05.png"  />
 
 ###
 
