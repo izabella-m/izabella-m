@@ -1,7 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F28BF7&width=435&lines=Hello+world!" alt="Typing SVG" /></a>
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2puc201eWw2MWZhdHRqNzQwdXo2YzllbWJrN2hhN3NlcHJ4eTQ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DBW3BniaWrFo4/giphy.gif" />
-
+<img align="right" height="150" src="https://i.gifer.com/6o0.gif"/>
 <p align="left">
 Hello! I'm Bella, a full-stack developer with experience in building and consuming APIs, developing scalable web pages, and integrating front-end and back-end systems.
 I have hands-on experience with Vue.js, Python (Django/FastAPI), C# (ASP.NET), and relational databases such as MySQL, PostgreSQL, and SQL Server.
@@ -83,21 +82,27 @@ I'm a proactive person, a fast learner, and focused on delivering clean, scalabl
 
 ###
 
-<h3 align="left">Contate-me!</h3>
+<h3 align="center">Contact me!</h3>
 
 ###
+<div align="center">
+  <img src="call.webp" height="120"  />
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/izabella-pessoa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/55082988550962" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://t.me/izabellapessoa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  <div style="display: inline-block;">
+    <a href="https://www.linkedin.com/in/izabella-pessoa/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
+    </a>
+    <a href="https://wa.me/55082988550962" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" />
+    </a>
+    <br/>
+    <a href="https://t.me/izabellapessoa" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" />
+    </a>
+    <a href="#">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" />
+    </a>
+  </div>
 </div>
 
 ###
