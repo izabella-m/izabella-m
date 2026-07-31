@@ -27,7 +27,7 @@ I'm a proactive person, a fast learner, and focused on delivering clean, scalabl
 
 ###
 
-<p align="left">🎓 Information Systems student<br>💻 I work as a back-end developer, passionate about solving problems through code<br>🏃‍♀️ I love sports — I practice Muay Thai, skate, and play soccer whenever I can<br>📺 Big fan of suspense series — always open to good recommendations!<br>⚽ And of course, when I’m not coding, I’m probably watching (or talking about) soccer, my other passion</p>
+<p align="left">🎓 Information Systems student<br>💻 I work as a software developer, passionate about solving problems through code<br>🏃‍♀️ I love sports, I practice Muay Thai and play soccer whenever I can<br>📺 Big fan of suspense series always open to good recommendations!<br>⚽ And of course, when I’m not coding, I’m probably watching (or talking about) soccer, my other passion</p>
 
 ###
 
